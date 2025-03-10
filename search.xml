@@ -1,13 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>hellow-word</title>
-    <url>/hellow-word-1/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>hellow-word</title>
-    <url>/hellow-word/</url>
-    <content><![CDATA[]]></content>
+    <title>使用Grok-Rate-Limits查询SuperGrok可用次数</title>
+    <url>/grok-rate-limits/</url>
+    <content><![CDATA[<p>Grok3已经免费提供了，但是很多朋友升级了Premium、Premium+、或者是SuperGrok账户。</p>
+<p>不知道怎么查询自己可以调用Grok3的次数，于是前几天我就开发了这个Grok Rate Limits的chrome扩展插件。</p>
+<p><strong>我已经开发了对应的Chrome插件，可以实时检查刀自己的调用次数剩下多少和自己可以调用每个功能的次数。</strong> 插件可以在chrome扩展程序上搜索：<code>grok rate limits</code>。</p>
+<blockquote>
+<p>Chrome插件：<a href="https://chromewebstore.google.com/detail/grok-rate-limits/alfhaokdckjioipagadidpbldgfabgjp?hl=zh-CN">https://chromewebstore.google.com/detail/grok-rate-limits/alfhaokdckjioipagadidpbldgfabgjp</a></p>
+</blockquote>
+<p>根据对比之后，顺便教大家<strong>如何订阅SuperGrok</strong>或者通过<strong>其他方式提高使用次数</strong>。</p>
+<p>而Grok3已经免费可以使用，其中Grok3的高级功能每种账号类型对应不同的使用次数。</p>
+<p><strong>Grok3的账号有四种类型：免费账号、SuperGrok、<a href="https://zhida.zhihu.com/search?content_id=254537437&content_type=Article&match_order=1&q=Premium&zhida_source=entity">Premium</a>、<a href="https://zhida.zhihu.com/search?content_id=254537437&content_type=Article&match_order=1&q=Premium+&zhida_source=entity">Premium+</a>。</strong></p>
+<p>其中对应的次数：</p>
+<table>
+<thead>
+<tr>
+<th>账号类型</th>
+<th>普通模型</th>
+<th>推理</th>
+<th>深度搜索</th>
+<th>费用（$）</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>免费账号</td>
+<td>20次 &#x2F; 2小时</td>
+<td>10次 &#x2F; 24小时</td>
+<td>10次 &#x2F; 24小时</td>
+<td>0</td>
+</tr>
+<tr>
+<td>SuperGrok</td>
+<td>100次 &#x2F; 2小时</td>
+<td>30次 &#x2F; 2小时</td>
+<td>30次 &#x2F; 2小时</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Premium</td>
+<td>50次 &#x2F; 2小时</td>
+<td>20次 &#x2F; 2小时</td>
+<td>20次 &#x2F; 2小时</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Premium+</td>
+<td>100次 &#x2F; 2小时</td>
+<td>30次 &#x2F; 2小时</td>
+<td>30次 &#x2F; 2小时</td>
+<td>40</td>
+</tr>
+</tbody></table>
+<p><img src="https://pic1.zhimg.com/v2-4119cc81cd7944ee01b92b854d6f5406_1440w.jpg" alt="对应次数"></p>
+<p>如果需要提高Grok3的DeepSearch 和 Think 高级功能测试的话，可以通过下面几种方式进行提高次数。</p>
+<span id="more"></span>
+<p>从上面的数据对比之后，可以得出结论：<strong>订阅Premium更有性价比！</strong></p>
+<p>因为Grok3是马斯克的产业，X（原推特）也是马斯克的产业，所以在Grok的官网上，你可以看到允许 <a href="https://zhida.zhihu.com/search?content_id=254537437&content_type=Article&match_order=1&q=X+%E8%B4%A6%E5%8F%B7&zhida_source=entity">X 账号</a>进行登录。</p>
+<p><img src="https://pic3.zhimg.com/v2-ea61afd6077c013df6a28cd46f782d8a_1440w.jpg" alt="img"></p>
+<p>而且，Grok3的次数一直在动态调整，结合上面的插件可以根据情况去升级对应的计划就行。</p>
+<p><strong>另外 邮箱账号 和 X 账号 进行 登录 Grok 官网时，它是两个独立的账号体系。</strong></p>
+<p>而免费账号24小时只能调用10次高级推理功能，在正常使用的情况下，是不够用的。</p>
+<p>所以，建议升级 8 美元 的 X 平台上的 Premium 更好，当然了，SuperGrok也有它的优势，比如可以无限绘画，调用高级语音功能。</p>
+<p><strong>下面就教大家升级 SuperGrok 和 Premium 两种计划的方式：</strong></p>
+<h2 id="（一）Premium-的升级订阅教程"><a href="#（一）Premium-的升级订阅教程" class="headerlink" title="（一）Premium 的升级订阅教程"></a>（一）Premium 的升级订阅教程</h2><p>Premium是X平台上的一个计划，也就小蓝V，同时也可以在X平台上免广告。</p>
+<p>（1）先注册一个X平台账号，也就是推特账号。 没有的话，可以通过谷歌邮箱进行注册X账号。</p>
+<blockquote>
+<p>X（原推特）：<a href="https://x.com/">x.com</a></p>
+</blockquote>
+<p>（2）使用网页版进行订阅X平台上的Premium，进行订阅之前，没有国内visa&#x2F;master卡的伙伴，可以申请一张虚拟master卡来解决。</p>
+<blockquote>
+<p>Premium：<a href="https://x.com/i/premium_sign_up">x.com&#x2F;i&#x2F;premium_sign_up</a></p>
+</blockquote>
+<p><img src="https://picx.zhimg.com/v2-74d911764e0010d8fff08bd9c7103953_1440w.jpg" alt="img"></p>
+<p>（3）申请<a href="https://zhida.zhihu.com/search?content_id=254537437&content_type=Article&match_order=1&q=Master%E8%99%9A%E6%8B%9F%E5%8D%A1&zhida_source=entity">Master虚拟卡</a>，然后选择X服务之后，进行充值8美元，不需要额外充值。 余额不使用，也是可以提现，原路返回。</p>
+<blockquote>
+<p><strong>Master虚拟卡：<a href="https://wildscard.com/">wildscard.com</a></strong></p>
+</blockquote>
+<p><img src="https://pica.zhimg.com/v2-1500c35fe8c705a47f81471c8f455bca_1440w.jpg" alt="img"></p>
+<p><img src="https://pic3.zhimg.com/v2-35491ddd8a6f8478dd3842e3058b8c04_1440w.jpg" alt="img"></p>
+<p>（4）现在，就可以拿着虚拟卡里面的卡号信息，回到X平台上，进行绑定支付即可。</p>
+<p><img src="https://pic2.zhimg.com/v2-d897ac1236dd68226c46ce3600c33b77_1440w.jpg" alt="img"></p>
+<blockquote>
+<p><strong>绑卡时，注意使用的魔法建议纯净度良好的。绑定时，被拒的原因，大部分是网络环境问题。</strong></p>
+</blockquote>
+<p>**订阅成功之后，如果下个不需要续订的朋友，记得进行一个取消自动续订哦！**以免自动扣款失败，造成了其他麻烦。</p>
+<p>（5）最后，取消续订！避免自动续费的情况，回到X平台，还是找到Premium的入口。</p>
+<p><img src="https://pic4.zhimg.com/v2-751a16d43920f58a8dcee860ee6f4707_1440w.jpg" alt="img"></p>
+<blockquote>
+<p>取消自动续订方法：在 X 上，找到 Premium 的Manage上，进行取消续订。</p>
+</blockquote>
+<p><img src="https://pic4.zhimg.com/v2-b726031e1a60e79f558d9ea94f7874c5_1440w.jpg" alt="img"></p>
+<p><strong>升级完毕之后，你可以在当前的X平台上使用，你也可以直接回到Grok官网，选择 X 账号进行登录。</strong></p>
+<blockquote>
+<p>Grok 官网：<a href="https://grok.com/">https://grok.com</a></p>
+</blockquote>
+<p><img src="https://pic3.zhimg.com/v2-ea61afd6077c013df6a28cd46f782d8a_1440w.jpg" alt="img"></p>
+<p>你的次数就会刷新，不知道自己的次数的话，就结合这个<code>Grok Rate Limits</code>插件进行查询。</p>
+<h2 id="SuperGrok-升级订阅教程"><a href="#SuperGrok-升级订阅教程" class="headerlink" title="SuperGrok 升级订阅教程"></a>SuperGrok 升级订阅教程</h2><p>而SuperGrok是直接在Grok官网升级即可，对了，升级这些计划时，使用网页版去升级，可以避免额外的费用，因为某果会额外加收30%的果税。</p>
+<p>正常打开Grok官网就有弹出SuperGrok的介绍。</p>
+<blockquote>
+<p>如果没有弹出SuperGrok的介绍，或者没有找到对应入口的话，在Grok网页版上，加个参数：?show_subscribe&#x3D;1</p>
+<p>完整链接：<a href="https://grok.com/%3Fshow_subscribe%3D1">https://grok.com?show_subscribe&#x3D;1</a></p>
+</blockquote>
+<p><img src="https://pic4.zhimg.com/v2-23467cf0b1e4f6653cb079446d27151d_1440w.jpg" alt="img"></p>
+<p>img</p>
+<p>如果需要升级SuperGrok的话，需要提前准备一张国际信用卡，也就是Visa 或者 Master信用卡。</p>
+<p>如果没有这种类型的卡的伙伴，还是可以直接注册一张虚拟Master信用卡。</p>
+<blockquote>
+<p><strong>虚拟Master信用卡：<a href="https://wildscard.com/">https://wildscard.com</a></strong></p>
+</blockquote>
+<p><img src="https://picx.zhimg.com/v2-e04269178509f06d702e52345b364667_1440w.jpg" alt="img"></p>
+<p>订阅方式，跟上面的Premium的差不多一样，进行绑定支付就行啦。</p>
+<p>你也可以打开Grok网页版 或者 移动版。<strong>找到 “设置” 点击 “Go Super” 就可以订阅升级 Super Grok。</strong></p>
+<p><img src="https://picx.zhimg.com/v2-6c79e940af7ac8c12f09fac44d16facd_1440w.jpg" alt="img"></p>
+<p>自己使用了一段Grok3的感受，对比GPT来说的话，Grok3的免费额度挺多的，而且Grok3的token上下文也长，每秒输出也快。</p>
+<p>在研究和写作方面，推理功能对比其他模型之后，Grok3的推理也非常不错。</p>
+<h3 id="Grok-API-白嫖免费-150美元-额度教程"><a href="#Grok-API-白嫖免费-150美元-额度教程" class="headerlink" title="Grok API 白嫖免费 150美元 额度教程"></a>Grok API 白嫖免费 150美元 额度教程</h3><p>对于开放者来说，会用的Grok API，但是目前Grok3 API 还没有推送，估计要再等2周。</p>
+<p>但是 Grok API 有个白嫖 150 美元 免费额度的教程，开启数据共享之后就可以每个月赠送 150 美元的 API 免费额外。 后续可以用在 Grok3 API。</p>
+<p>具体的教程，你可以参考文章：<a href="https://chatgpi.cn/how-subscribe-grok3-api-and-x-ai-premium-plus/">【保姆级教程】教你如何白嫖Grok3 API 150 美元免费额度</a></p>
+]]></content>
+      <tags>
+        <tag>Grok Rate Limits</tag>
+        <tag>SuperGrok Rate Limits</tag>
+      </tags>
   </entry>
 </search>
